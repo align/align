@@ -8,7 +8,7 @@
   </p>
   <p>
     <img src="https://img.shields.io/github/followers/align" />
-    <img src="https://img.shields.io/github/stars/align">
+    <img src="https://img.shields.io/github/stars/align" />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=align.align.README.md" />
   </p>
 </div>
