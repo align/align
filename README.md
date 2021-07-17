@@ -6,11 +6,11 @@
     <h3>身在井隅&nbsp;&nbsp;&nbsp;&nbsp;心向璀璨</h3>
     <p>We are all in the gutter, but some of us are looking at the stars.</p>
   </p>
-<!--   <p>
+  <p>
     <img src="https://img.shields.io/github/followers/align" />
     <img src="https://img.shields.io/github/stars/align">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=align.align.README.md" />
-  </p> -->
+  </p>
 </div>
 
 
